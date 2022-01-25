@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+<img src ="https://www.wallpapersin4k.org/wp-content/uploads/2017/04/Cute-Cartoon-Boy-Wallpaper.jpg"alt="friendship is always good"
